@@ -1,0 +1,5 @@
+Grimoiregrimoire.hard.json	转换失败
+icepandora.extra.json	转换失败
+samsaraaragami.hard.json	转换失败
+veritas.hard.json	转换失败
+448个文件转换成功，4个文件转换失败！
